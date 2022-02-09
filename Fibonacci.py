@@ -30,6 +30,7 @@ def fibonacciFunction(n):
                                         print(f'{number} is in fibonacci sequence')
                                 else:
                                         Break
+        print(f'{number} is not fibonacci sequence')
                                         
         
 fibonacciFunction(number)
