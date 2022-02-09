@@ -3,11 +3,6 @@ from ast import Break
 
 number = input("Enter a number: " )
 
-
-
-
-
-
 def fibonacciFunction(n):
         a =0
         b=1
